@@ -1,7 +1,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/ctrl-c-ctrl-v.svg)](https://forthebadge.com)
 
 #### Contributors
-[Dhruvee Birla](https://github.com/dhruvxx) and myself.
+[Pahulpreet Singh](https://github.com/codelixir) and [Dhruvee Birla](https://github.com/dhruvxx).
 
 This assignment was done as a part of the Machine, Data and Learning course, Spring 2021.
 
